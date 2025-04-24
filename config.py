@@ -1,0 +1,4 @@
+# Встав сюди свій токен та ID
+TOKEN = 'YOUR_BOT_TOKEN_HERE'
+ADMIN_ID = 123456789
+VOTE_DURATION = 10800
